@@ -22,6 +22,8 @@ Simulação de uma infraestrutura de rede corporativa distribuída por **3 edif�
 | Ligação entre switches | Trunk Ports |
 | Ligação a dispositivos finais | Access Ports |
 | Atribuição de IP | DHCP |
+| Tradução de endereços | NAT (Network Address Translation) |
+| Segurança e filtragem de tráfego | ACLs (Access Control Lists) |
 
 ## 🗂️ Estrutura da Rede
 
@@ -30,6 +32,8 @@ Simulação de uma infraestrutura de rede corporativa distribuída por **3 edif�
 - Redundância de links entre switches (STP) e entre gateways (FHRP)
 - Ligações agregadas (EtherChannel) para maior largura de banda e tolerância a falhas
 - Atribuição dinâmica de endereços IP via DHCP
+- NAT para tradução de endereços privados para acesso à internet
+- ACLs para controlo e filtragem de tráfego entre segmentos de rede
 
 ## 🎯 Objetivo do Projeto
 
