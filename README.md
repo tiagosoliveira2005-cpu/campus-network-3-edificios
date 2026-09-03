@@ -1,13 +1,16 @@
 # 🏢 Campus Network — Empresa com 3 Edifícios
 
-Projeto de rede empresarial simulado no **Cisco Packet Tracer**, desenvolvido para estudo de redes de campus (Campus Network Design) e para portefólio.
+Projeto de rede empresarial simulado no **Cisco Packet Tracer**, desenvolvido para estudo de redes e para portefólio.
+
+## 🌐 Network Topology
+![Campus Network Topology](images/topology.png)
 
 ## 📌 Descrição
 
 Simulação de uma infraestrutura de rede corporativa distribuída por **3 edifícios**, seguindo o modelo hierárquico de rede em **três camadas**:
 
 - **Core Layer** — backbone de alta velocidade, interligando os edifícios
-- **Distribution Layer** — agregação de tráfego, roteamento entre VLANs, redundância
+- **Distribution Layer** — agregação de tráfego, routing entre VLANs, redundância
 - **Access Layer** — ligação dos dispositivos finais (portas de acesso)
 
 ## ⚙️ Tecnologias e Protocolos Implementados
@@ -17,7 +20,7 @@ Simulação de uma infraestrutura de rede corporativa distribuída por **3 edif�
 | Segmentação de rede | VLANs |
 | Redundância de camada 2 | STP (Spanning Tree Protocol) |
 | Routing | OSPF (Open Shortest Path First) |
-| Redundância de gateway | FHRP em SVIs (ex: HSRP/VRRP) |
+| Redundância de gateway | HSRP em SVIs |
 | Agregação de links | EtherChannel |
 | Ligação entre switches | Trunk Ports |
 | Ligação a dispositivos finais | Access Ports |
