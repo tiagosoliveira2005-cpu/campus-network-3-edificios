@@ -42,7 +42,7 @@ Este projeto foi desenvolvido como exercício prático de estudo de **arquitetur
 
 ## 📁 Ficheiros
 
-- `Projeto_1_-_Empresa_com_3_edificios_Campus_Network.pkt` — ficheiro do projeto Packet Tracer
+- `Projeto 1 - Empresa com 3 edificios (Campus Network).pkt` — ficheiro do projeto Packet Tracer
 
 ---
 
