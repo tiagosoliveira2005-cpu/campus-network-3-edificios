@@ -40,7 +40,7 @@ Simulação de uma infraestrutura de rede corporativa distribuída por **3 edif�
 
 ## 🎯 Objetivo do Projeto
 
-Este projeto foi desenvolvido como exercício prático de estudo de **arquitetura de redes empresariais (Campus Network Design)**, aplicando conceitos fundamentais de redes hierárquicas, redundância e segmentação — conteúdos alinhados com certificações como o **CCNA**.
+Projeto desenvolvido como exercício prático de Campus Network Design, aplicando conceitos de arquitetura hierárquica, routing, switching, redundância, segmentação e segurança de redes.
 
 ## 🛠️ Como abrir o projeto
 
